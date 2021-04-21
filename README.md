@@ -1,2 +1,2 @@
-# Cents
-Cents - A Budget Thing
+# cents
+cents - A Budget Thing to make sense of your money
